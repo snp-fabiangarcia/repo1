@@ -1,2 +1,2 @@
 # repo1
-Repositorio de prueba
+Repositorio de prueba.
